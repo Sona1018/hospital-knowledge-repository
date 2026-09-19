@@ -1,0 +1,10 @@
+{
+  "domain": "Hospital Management",
+  "category": "Appointment Management",
+  "rules": [
+    "A patient must be registered before booking an appointment.",
+    "An appointment can be booked only when the doctor is available.",
+    "Each appointment must have a valid patient and doctor.",
+    "An appointment must contain a valid date and time."
+  ]
+}
