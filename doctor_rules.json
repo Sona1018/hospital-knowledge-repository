@@ -1,0 +1,10 @@
+{
+  "domain": "Hospital Management",
+  "category": "Doctor Management",
+  "rules": [
+    "Every doctor must have a unique doctor ID.",
+    "A doctor must have a valid medical specialization.",
+    "Doctor availability must be maintained in the hospital system.",
+    "Only registered doctors can be assigned to patient appointments."
+  ]
+}
