@@ -1,0 +1,10 @@
+{
+  "domain": "Hospital Management",
+  "category": "Patient Management",
+  "rules": [
+    "Every patient must have a unique patient ID.",
+    "Patient information must contain valid personal details.",
+    "A patient record must contain necessary contact information.",
+    "Patient medical records must be maintained securely."
+  ]
+}
