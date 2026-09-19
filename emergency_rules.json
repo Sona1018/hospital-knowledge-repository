@@ -1,0 +1,10 @@
+{
+  "domain": "Hospital Management",
+  "category": "Emergency Management",
+  "rules": [
+    "Emergency patients must receive immediate attention.",
+    "Emergency cases must be assigned to available medical staff.",
+    "Emergency patient information must be recorded in the system.",
+    "Emergency treatment details must be maintained in the patient record."
+  ]
+}
